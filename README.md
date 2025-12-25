@@ -1,55 +1,45 @@
-# 👋 Hi, I’m Tan Shi Sian
+# 👋 Hi, I’m **Shi Sian (Nick) Tan**
+**Site Reliability Engineer @ Infineon Technologies** | ex-Intel  
+Building reliable, scalable, and automated systems that power real-world AI and cloud platforms.
 
-Aspiring Machine Learning Engineer | AI Infrastructure | LLM Deployment
-
-📧 shisian001@gmail.com | 📞 +60 10-899 4433  
-📍 Johor, Malaysia | 🔗 [GitHub: shisian512](https://github.com/shisian512) | [LinkedIn: Tan Shi Sian](https://www.linkedin.com/in/tan-shi-sian)
-
----
-
-## 🎯 About Me
-
-I'm a machine learning enthusiast with practical experience in AI model validation, GenAI service deployment, and full-stack content tools. I’ve worked with Docker, Kubernetes, FastAPI, and Payload CMS to improve AI workflows and infrastructure.  
-
-I enjoy solving real-world problems through automation, code, and cross-functional collaboration — and I’m continuously exploring the intersection of AI, DevOps, and scalable systems.
+📍 Melaka, Malaysia  
+💻 GitHub: https://github.com/shisian512  
+📝 Blog: https://shisian512.github.io/posts/
 
 ---
 
-## 🧠 Skills at a Glance
-
-- Languages: Python, C++, Java, Node.js, Next.js  
-- DevOps & MLOps: Docker, Kubernetes, Ansible, Grafana  
-- Data & Visualization: Tableau, Power BI, SAP BO, SQL, MongoDB  
-- Cloud & Infra: AWS (EC2, S3, RDS, IAM, CodePipeline), Terraform, Bash  
-- CI/CD & Versioning: Git, GitHub Actions, Jenkins  
-- OS: Linux (dev), Windows
+## 💡 What I Do
+I blend **SRE**, **AI/ML infrastructure**, and **cloud automation** to make systems stable and smart. I ship code that runs everywhere — from LLMs to observability pipelines.
 
 ---
 
-## 🧩 Projects & Experience Highlights
+## 🚀 Skills & Tools
 
-### 🧪 AI Workload Validation (Intel)
-- Built end-to-end inference testing pipelines using Docker, Kubernetes, Ansible.
-- Logged structured test cases in JIRA and improved latency through scripting optimization.
-
-### 🤖 GenAI Platform Deployment (Intel)
-- Ported and validated LLM microservices on Intel iGPU & dGPU using Docker Compose.
-- Migrated from systemd to container-first workflows, improving portability.
-
-### 📚 Curriculum Enabling Platform (Intel)
-- Designed Payload CMS collections and built Next.js frontend.
-- Developed REST APIs with FastAPI and implemented multistep AI SDK pipelines.
-
-### 📊 Automated Reporting Dashboard (Infineon)
-- Automated SAP-to-Tableau reporting pipeline with Python, reducing processing time by 67%.
-- Built visual dashboards and deployed kiosk systems for real-time KPI monitoring.
-
-### 🎨 FYP: Colour Stack cGAN
-- Developed a stacked conditional GAN for grayscale image colorization using TensorFlow & Keras.
-- Achieved superior perceptual quality compared to baseline models.
-
-### and more...
+**Cloud & Infra:** AWS | Azure | GCP | Terraform | Docker | Kubernetes  
+**SRE & Observability:** Prometheus | Grafana | CI/CD (Jenkins, GH Actions)  
+**ML Systems & MLOps:** MLflow | Airflow | DVC | Model Deployment  
+**Backend:** Python | FastAPI | REST APIs  
+**Automation:** IaC | Monitoring | Logging | Optimization
 
 ---
 
-> ⚙️ *“I build things that work. Then I make them work better.”*
+## 🧰 Highlights
+
+**Infineon Technologies — SRE**  
+- Reliability engineering, automation, cloud systems.
+
+**Intel — Software Engineer**  
+- AI/ML platform deployment, containerized workflows.
+
+**Self & OSS Projects**  
+- End-to-end MLOps pipelines (Airflow, DVC, MLflow)  
+- Monitoring stacks with Prometheus & Grafana  
+- APIs with FastAPI + Streamlit tooling
+
+**Academic & Research**  
+- GAN research & ML prototypes
+
+---
+
+## 📫 Let’s Connect
+Open to collabs, SRE & AI infra discussions — hit me up!
