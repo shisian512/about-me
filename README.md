@@ -3,7 +3,7 @@
 Building reliable, scalable, and automated systems for real-world AI and cloud platforms.
 
 📍 Melaka, Malaysia  
-🔗 [GitHub](https://github.com/shisian512) · [Blog](https://shisian512.github.io/posts/) · [LinkedIn](https://www.linkedin.com/in/tan-shi-sian)
+🔗 [GitHub](https://github.com/shisian512) · [Blog](https://shisian512.github.io/about/) · [LinkedIn](https://www.linkedin.com/in/tan-shi-sian)
 
 ---
 
