@@ -5,7 +5,7 @@ Building reliable, scalable, and automated systems that power real-world AI and 
 📍 Melaka, Malaysia  
 💻 GitHub: https://github.com/shisian512  
 📝 Blog: https://shisian512.github.io/posts/
-
+💻 LinkedIn:  www.linkedin.com/in/tan-shi-sian
 ---
 
 ## 💡 What I Do
